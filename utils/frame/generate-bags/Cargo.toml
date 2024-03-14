@@ -17,5 +17,5 @@ pallet-staking = { version = "4.0.0-dev", path = "../../../frame/staking" }
 sp-staking = { version = "4.0.0-dev", path = "../../../primitives/staking" }
 
 # third party
-chrono = { version = "0.4.19" }
+chrono = { version = "0.4.35" }
 num-format = "0.4.3"
